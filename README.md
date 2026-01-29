@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <style>
@@ -96,8 +96,8 @@ form input.equal1{
                     <input type="button" value="1" onclick="display.value +='1'">
                     <input type="button" value="2" onclick="display.value +='2'">
                     <input type="button" value="3" onclick="display.value +='3'">
-                    <input type="button" value="*" onclick="display.value +='*'">
-                    <input type="button" value="/" onclick="display.value +='/'">  
+                    <input type="button" value="×" onclick="display.value +='*'">
+                    <input type="button" value="÷" onclick="display.value +='/'">  
                 </div>
                 <div>
                     <input type="button" value="00" onclick="display.value +='00'">
